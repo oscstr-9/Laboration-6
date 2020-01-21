@@ -1,0 +1,5 @@
+This lab was really fun to work on but it was quite dificult. That combined with the christmas break made it take way more time than I think I really needed.
+That being said this is definitely the lab i spent the most time on, I'm not really sure of how much time though.
+This lab really showed how useful getters and setter can be, especially with the double linked list. I had some issues with understanding how to even begin the
+double linked list but by physically drawing what was going on I found it easier to understand. getting the circles to move without erasing them when making my game
+also proved to be more difficult than expected. All in all I think the lab was great but the timing of the christmas break made it harder than it really was for me.

@@ -1,0 +1,11 @@
+Point2D - Used to give both the player and the enemies their position.
+
+GameObject - Only really used to keep screen size and character size in a place accessible to both player and enemy.
+
+shape - Used by circle to give both players and enemies their color.
+
+circle - Used to give the player and the enemies their shape.
+
+enemy - Renders, gives speed to the enemies. Also gives collison between enemies and walls.
+
+player - Renders and gives mobility to the player. Also makes the player have collision with walls and enemies.

@@ -1,0 +1,3 @@
+The goal of the game is to suvive for as long as possible. you controll the blue circle with WASD to avoid being touched by the red circles.
+The red circles (the enemies) spawn one after one in random positions with random speed in a random direction so the game is never exacly the same.
+You only have one life per attempt and the score is printed out in the console. Good luck! 

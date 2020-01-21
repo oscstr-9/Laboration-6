@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\oscstr-9\source\repos\laboration6\task2\main.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscstr-9\source\repos\laboration6\task2\main.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oscstr-9\source\repos\laboration6\task2\main.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscstr-9\source\repos\laboration6\task2\main.cpp(139): warning C4018: '<': signed/unsigned mismatch
+  Task2.vcxproj -> C:\Users\oscstr-9\source\repos\Laboration6\Debug\Task2.exe

@@ -1,0 +1,13 @@
+﻿  Main.cpp
+c:\users\oscstr-9\source\repos\laboration6\task2\main.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscstr-9\source\repos\laboration6\task2\main.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\oscstr-9\source\repos\laboration6\task2\main.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscstr-9\source\repos\laboration6\task2\main.cpp(139): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+c:\users\oscstr-9\source\repos\laboration6\task2\player.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  3 of 133 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Task2.vcxproj -> C:\Users\oscstr-9\source\repos\Laboration6\Release\Task2.exe
